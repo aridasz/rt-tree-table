@@ -1,0 +1,21 @@
+{
+  "name": "rt-tree-table-yes-really-hoc",
+  "description": "Contains a HOC for making React Table behave more like a TreeTable (using the Pivot facility as well as overriding the TrComponent and the getTrProps).\n",
+  "version": "0.0.27",
+  "dependencies": {
+    "react-table": "6.7.5",
+    "react-dom": "15.5.3",
+    "react": "15.5.3",
+    "namor": "1.0.1",
+    "lodash": "4.17.4"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
